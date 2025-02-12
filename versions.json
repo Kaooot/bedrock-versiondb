@@ -1,4 +1,6 @@
 {
+  "1.21.70.23": { "protocolVersion": 785, "date": "12-02-2024", "type": "preview" },
+  "1.21.60.10": { "protocolVersion": 776, "date": "11-02-2024", "type": "release" },
   "1.21.70.22": { "protocolVersion": 784, "date": "05-02-2024", "type": "preview" },
   "1.21.70.20": { "protocolVersion": 780, "date": "30-01-2024", "type": "preview" },
   "1.21.60.28": { "protocolVersion": 776, "date": "22-01-2024", "type": "preview" },
