@@ -1,4 +1,5 @@
 {
+  "1.21.70.3": { "protocolVersion": 786, "date": "25-03-2025", "type": "release" },
   "1.21.80.21": { "protocolVersion": 791, "date": "18-03-2025", "type": "preview" },
   "1.21.80.20": { "protocolVersion": 790, "date": "11-03-2025", "type": "preview" },
   "1.21.70.26": { "protocolVersion": 786, "date": "05-03-2025", "type": "preview" },
